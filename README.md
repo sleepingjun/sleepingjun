@@ -18,8 +18,8 @@ Recently, I'm engaged in data analysis and machine learning research.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepingjun&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:  
-<a href="https://www.linkedin.com/in/yu-chun-ni-40a128233/"><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yu-chun-ni-40a128233/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@best19980102)
 
 <!--
 **yuchun-nii/yuchun-nii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
