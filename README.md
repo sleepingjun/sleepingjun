@@ -13,9 +13,9 @@ Recently, I'm engaged in data analysis and machine learning research.
 <a href="">
 
 ## GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchun-nii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepingjun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchun-nii&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepingjun&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:  
 <a href="https://www.linkedin.com/in/yu-chun-ni-40a128233/"><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
