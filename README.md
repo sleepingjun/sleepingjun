@@ -12,7 +12,7 @@ Recently, I'm engaged in data analysis and machine learning research.
 <a href="">
 
 ## GitHub Stats  
-[![Top Langs](https://github-readme-stats-sleepingjun.vercel.app/api/top-langs/?username=sleepingjun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-sleepingjun.vercel.app/api/top-langs/?username=sleepingjun&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Anurag's GitHub stats](https://github-readme-stats-sleepingjun.vercel.app/api?username=sleepingjun&count_private=true&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
