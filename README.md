@@ -14,7 +14,7 @@ Recently, I'm engaged in data analysis and machine learning research.
 ## GitHub Stats  
 [![Top Langs](https://github-readme-stats-sleepingjun.vercel.app/api/top-langs/?username=sleepingjun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Anurag's GitHub stats](https://github-readme-stats-sleepingjun.vercel.app/api?username=sleepingjun&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sleepingjun.vercel.app/api?username=sleepingjun&count_private=true&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yu-chun-ni-40a128233/)
