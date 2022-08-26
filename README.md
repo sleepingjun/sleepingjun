@@ -19,6 +19,8 @@ Recently, I'm engaged in data analysis and machine learning research.
 ## Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yu-chun-ni-40a128233/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@best19980102)
+<a href="https://sleepingjun.coderbridge.io/"><img height=28 src="https://github.com/sleepingjun/sleepingjun/blob/main/CoderBridge%20icon.JPG" />
+
 
 <!--
 **yuchun-nii/yuchun-nii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
