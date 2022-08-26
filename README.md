@@ -1,7 +1,5 @@
 ## Hello! I'm NiNi. :raising_hand:  
-I graduated with a bachelor degree in Math from SCU.  
-I am studying for my master’s degree in Computation and Modeling Science at NTHU:taiwan:.  
-Recently, I'm engaged in data analysis and machine learning research.
+Recently, I'm engaged in data analysis and machine learning research.  
 
 ## Languages and tools:  
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />    <a href="https://www.python.org/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><a href="https://www.tensorflow.org/?hl=zh-tw"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
