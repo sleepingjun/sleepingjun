@@ -1,12 +1,14 @@
 ## Hello! I'm NiNi. :raising_hand:  
 Recently, I'm engaged in data analysis and machine learning research.  
-
+I enjoy learning more knowledge in the world~  
 ## Languages and tools:  
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />    <a href="https://www.python.org/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><a href="https://www.tensorflow.org/?hl=zh-tw"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <a href="https://pytorch.org/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <a href="https://opencv.org/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <a href="https://www.mysql.com/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<a href="https://flask.palletsprojects.com/en/2.2.x/"><img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+          
 <a href="">
 
 ## GitHub Stats  
