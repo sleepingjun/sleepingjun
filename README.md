@@ -1,5 +1,6 @@
 ## Hello! I'm NiNi. :raising_hand:  
 I enjoy learning more knowledge in the world~  
+From now on, I plan to share what I learn.  
 ## Languages and tools:  
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />    <a href="https://www.python.org/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><a href="https://www.tensorflow.org/?hl=zh-tw"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <a href="https://pytorch.org/"><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
